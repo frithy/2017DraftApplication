@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/greengrass">
+
+
+    <RelativeLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:orientation="vertical"
+     android:id="@+id/linearLayout">
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Draft Pick"
+         android:textSize="40dp"
+         android:textColor="#FFFFFF"
+         android:textStyle="bold"
+         android:clickable="false"
+         android:id="@+id/testingID"
+         android:layout_above="@+id/numberPicker"
+         android:layout_centerHorizontal="true"
+         android:layout_marginBottom="52dp"></TextView>
+
+        <NumberPicker
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/numberPicker"
+            android:orientation="vertical"
+            android:baselineAligned="false"
+
+            android:background="@drawable/roundedlayout_white"
+            android:gravity="center_vertical|end"
+            android:layout_gravity="center_horizontal"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Commit"
+            android:background="@drawable/roundedlayout_greyish"
+            android:id="@+id/commitButtonID"
+            android:layout_below="@+id/numberPicker"
+            android:layout_alignEnd="@+id/numberPicker"
+            android:layout_marginTop="46dp" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,440 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:id="@+id/playerFragment"
+    tools:context=".MainActivity$PlaceholderFragment1"
+    android:background="@drawable/greengrass">
+
+    <TextView android:id="@+id/section_label" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/FP_MainPane"
+
+
+        android:layout_toEndOf="@+id/section_label">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Scott Pendlebury"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:id="@+id/FP_playerName"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="28 years old, Midfielder - Forward, Geelong"
+            android:textColor="#FFFFFF"
+            android:id="@+id/playercondets" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+           >
+
+
+
+
+
+
+            <Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"></Space>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/player1000"
+            android:id="@+id/FP_playerPicture" />
+        <Space
+            android:layout_width="30dp"
+            android:layout_height="15dp"></Space>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+
+
+            #here
+            <LinearLayout
+                android:paddingTop="2dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                >
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/tick"
+                    android:id="@+id/fp_availabilityImage"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Available"
+                    android:textSize="17dp"
+                    android:textAlignment="center"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center_vertical"
+                    android:textColor="#ffffff"
+                    android:id="@+id/fp_availabilityStatus"
+
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:paddingTop="2dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                >
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/tick"
+                    android:id="@+id/fp_injuryimage"/>
+
+                <Spinner
+                    style="@android:style/Widget.Holo.Spinner"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/injury_spinner"
+                    android:prompt="@string/prompt_spinner"
+                    android:spinnerMode="dropdown"
+                    android:visibility="visible"
+                    android:textSize="60dp"
+                    android:textAlignment="center"
+                    android:theme="@style/AppTheme"
+                    android:popupBackground="@android:drawable/alert_light_frame"
+                    android:layout_weight="1" />
+
+
+            </LinearLayout>
+
+
+
+                />
+
+        </LinearLayout>
+
+
+
+ </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Year: "
+            android:textSize="20dp"
+            android:textAlignment="center"
+
+            android:textColor="#FFFFFF" />
+
+        <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:id="@+id/year_spinner"
+                android:prompt="@string/prompt_spinner"
+                android:spinnerMode="dropdown"
+                android:visibility="visible"
+                android:textSize="60dp"
+                android:textAlignment="center"
+                android:theme="@style/AppTheme"
+                android:popupBackground="@android:drawable/alert_light_frame"
+                style="@android:style/Widget.Holo.Spinner"
+                 />
+    </LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+
+
+    >
+
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Games:"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_gamesPlayed_PH"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+              android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Average:"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_Average_PH"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Projected:"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_projected_PH"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total:"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_2015Total_PH"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TOG Average:"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_standardDev_PH"
+            android:textColor="#FFFFFF" />
+
+
+        </LinearLayout>
+    <Space
+        android:layout_height="match_parent"
+        android:layout_width="20dp"></Space>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="21"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_gamesPlayed"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="120"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_Average"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="120"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_Projected"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2133"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_Total"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="21"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_togaverage"
+            android:textColor="#FFFFFF" />
+
+
+        </LinearLayout>
+
+
+        <Space
+            android:layout_height="match_parent"
+            android:layout_width="20dp"></Space>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TOG:"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_timeOnGround_PH"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="rValue:"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_pointsPerMinute_PH"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="pValue:"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_potentialAverage_PH"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ranked:"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_predictedPick_PH"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pick: "
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_vertical"
+            android:textColor="#ffffff"
+            android:id="@+id/FP_pickTaken_ph"></TextView>
+
+        </LinearLayout>
+    <Space
+        android:layout_height="match_parent"
+        android:layout_width="20dp"></Space>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="21"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_timeOnGround"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="21"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_rValue"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="140.3"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_pValue"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="21"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:id="@+id/FP_predictedPick"
+            android:textColor="#FFFFFF" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NA"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_vertical"
+            android:textColor="#ffffff"
+            android:id="@+id/FP_pickTaken"></TextView>
+
+        </LinearLayout>
+
+</LinearLayout>
+
+
+
+</LinearLayout>
+            <Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"></Space>
+            <RatingBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/FP_starRating"
+                android:isIndicator="true"
+                android:layout_below="@+id/FP_MainPane"
+                android:layout_centerHorizontal="true"
+                android:numStars="5"
+                android:rating="3"
+                android:clickable="false" />
+        </LinearLayout>
+
+
+
+
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+</LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

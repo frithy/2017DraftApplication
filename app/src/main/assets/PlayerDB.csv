@@ -1,0 +1,466 @@
+Name,ID,Club,Position,age,SCAve
+Patrick Dangerfield,732,Geelong Cats,MID,26,131.8
+Scott Pendlebury,498,Collingwood,MID,29,118.7
+Max Gawn,1001,Melbourne,RUC,25,118.5
+Gary Ablett,3,Gold Coast Suns,MID,32,114.1
+Josh Kennedy,352,Sydney Swans,MID,28,113.4
+Dan Hannebery,875,Sydney Swans,MID,25,113.4
+Josh Kennedy,351,West Coast Eagles,FWD,29,113.4
+Lachie Neale,1358,Fremantle,MID,23,112.6
+Luke Parker,1207,Sydney Swans,MID,24,111.9
+Zach Merrett,1603,Essendon,MID,21,111.5
+Joel Selwood,575,Geelong Cats,MID,28,111.5
+Adam Treloar,1397,Collingwood,MID,23,111.3
+Tom Rockliff,924,Brisbane Lions,MID,26,120
+Matt Priddis,517,West Coast Eagles,MID,31,109.1
+Dayne Zorko,1419,Brisbane Lions,MID,27,109
+Sam Docherty,1293,Carlton,DEF,23,108.7
+Rory Sloane,939,Adelaide Crows,MID,26,108.6
+Todd Goldstein,233,North Melbourne,RUC,28,108.1
+Robbie Gray,241,Port Adelaide,MID,28,108.1
+Dustin Martin,1034,Richmond,MID,25,108.1
+Marcus Bontempelli,1540,Western Bulldogs,MID,21,107.7
+Patrick Cripps,1548,Carlton,MID,21,107.6
+Kade Simpson,587,Carlton,DEF,32,106.4
+Steele Sidebottom,934,Collingwood,MID,26,106.2
+Bryce Gibbs,220,Carlton,MID,27,106.1
+Heath Shaw,578,GWS Giants,DEF,31,106
+Stephen Coniglio,1280,GWS Giants,MID,23,105.9
+Nic Naitanui,909,West Coast Eagles,RUC,26,105.9
+Luke Shuey,932,West Coast Eagles,MID,26,105.6
+Callan Ward,822,GWS Giants,MID,26,105.6
+Nat Fyfe,1000,FRE,MID,25,120
+Sam Mitchell,445,West Coast Eagles,MID,34,104.4
+Tom Mitchell,1353,Hawthorn,MID,23,104
+Matthew Boyd,60,Western Bulldogs,DEF,34,103.6
+Dyson Heppell,1149,Essendon,MID,24,103.3517447
+Jack Steven,809,St Kilda,MID,26,103
+Ed Curnow,730,Carlton,MID,27,101.5
+Nick Riewoldt,535,St Kilda,FWD,34,101
+Daniel Wells,677,Collingwood,MID,31,100.6
+Trent Cotchin,729,Richmond,MID,26,100.5
+Jordan Lewis,376,Melbourne,MID,30,99.4
+Brent Stanton,602,Essendon,MID,30,99.28636362
+Dylan Shiel,1384,GWS Giants,MID,23,99.1
+Leigh Montagna,448,St Kilda,DEF,33,98.9
+Shane Mumford,780,GWS Giants,RUC,30,98.6
+Alex Rance,794,Richmond,DEF,27,98.4
+Michael Barlow,969,Gold Coast Suns,MID,29,98
+Brendon Goddard,230,Essendon,MID,31,97.8
+Tom Scully,1061,GWS Giants,MID,25,97.4
+Taylor Adams,1256,Collingwood,"DEF,MID",23,97
+Jack Viney,1517,Melbourne,MID,22,97
+Nathan Jones,345,Melbourne,MID,29,97
+Rory Laird,1333,Adelaide Crows,DEF,23,96.8
+Ollie Wines,1524,Port Adelaide,MID,22,96.27878475
+Lachie Hunter,1458,Western Bulldogs,MID,22,96.23009592
+James Kelly,350,Essendon,"DEF,MID",33,96.2
+Brodie Grundy,1449,Collingwood,RUC,22,95.7
+Luke Dahlhaus,1120,Western Bulldogs,"MID,FWD",24,95.7
+Aaron Hall,1314,Gold Coast Suns,MID,26,95.5
+Brett Deledio,154,GWS Giants,FWD,29,95
+Shaun Burgoyne,83,Hawthorn,"DEF,MID",34,94.7
+Lance Franklin,207,Sydney Swans,FWD,30,94.6
+Jack Ziebell,966,North Melbourne,MID,25,94.5
+Jason Johannisen,1162,Western Bulldogs,DEF,24,94.4
+Sebastian Ross,1372,St Kilda,MID,23,94.2
+Jack Macrae,1469,Western Bulldogs,"MID,FWD",22,94.1
+Ryan Griffen,244,GWS Giants,MID,30,93.9
+Dion Prestia,1214,Richmond,MID,24,93.5
+David Mundy,461,Fremantle,MID,31,93.2
+Tom Lynch,897,Adelaide Crows,FWD,26,93.2
+Matt Crouch,1549,Adelaide Crows,MID,21,92.8
+Shaun Grigg,246,Richmond,MID,28,92.6
+Mitch Duncan,996,Geelong Cats,MID,25,92.3
+Jack Gunston,1007,Hawthorn,FWD,25,92.3
+Bernie Vince,656,Melbourne,"DEF,MID",31,92.1
+Jeremy Howe,1155,Collingwood,DEF,26,92
+Jasper Pittard,1038,Port Adelaide,DEF,25,91.8
+Jarrad Waite,659,North Melbourne,FWD,33,91.8
+Travis Boak,50,Port Adelaide,MID,28,91.3
+Michael Hurley,884,Essendon,DEF,26,91.19508894
+Andrew Gaff,1136,West Coast Eagles,MID,24,90.7
+Dom Tyson,1401,Melbourne,MID,23,90.6
+Tom Liberatore,1175,Western Bulldogs,MID,24,90.52834689
+Mark Blicavs,1266,Geelong Cats,MID,25,90.4
+Toby Greene,1310,GWS Giants,FWD,23,90.4
+Jarryd Lyons,1181,Gold Coast Suns,MID,24,90.2
+Josh Gibson,221,Hawthorn,DEF,32,90.1
+Cyril Rioli,796,Hawthorn,FWD,27,90.1
+Jack Leslie,1592,Gold Coast Suns,DEF,21,90
+Stephen Hill,881,Fremantle,MID,26,89.9
+Anthony Miles,1351,Richmond,MID,24,89.8
+Josh Caddy,1106,Richmond,"MID,FWD",24,89.8
+Stefan Martin,765,Brisbane Lions,RUC,30,89.7
+Tom McDonald,1190,Melbourne,DEF,24,89.7
+Kieren Jack,319,Sydney Swans,MID,29,89.7
+Bachar Houli,300,Richmond,DEF,28,89.3
+Jarrad McVeigh,432,Sydney Swans,DEF,31,88.9
+Jack Newnes,1361,St Kilda,MID,23,88.6
+Luke Hodge,295,Hawthorn,DEF,32,88.5
+Eddie Betts,39,Adelaide Crows,FWD,30,88.4
+Zac Williams,1523,GWS Giants,DEF,22,88.2
+Kurt Tippett,639,Sydney Swans,"RUC,FWD",29,88.1
+Scott Thompson,625,Adelaide Crows,MID,33,88.1
+Thomas Lynch,1180,Gold Coast Suns,FWD,24,87.94200125
+Jeremy McGovern,1191,West Coast Eagles,DEF,24,87.9
+David Armitage,15,St Kilda,MID,28,87.3
+David Swallow,1237,Gold Coast Suns,MID,24,87.29721697
+Joshua Kelly,1582,GWS Giants,MID,21,87.1
+Mitch Wallis,1247,Western Bulldogs,"MID,FWD",24,87.1
+David Zaharakis,965,Essendon,MID,26,87
+Jarryd Roughead,549,Hawthorn,FWD,30,86.94
+Sam Jacobs,323,Adelaide Crows,RUC,28,86.8
+Steven May,1188,Gold Coast Suns,DEF,25,86.8
+Harley Bennell,1099,Fremantle,"MID,FWD",24,86.78111737
+Pearce Hanley,748,Gold Coast Suns,MID,28,86.7
+Brad Crouch,1436,Adelaide Crows,MID,23,86.6
+Dane Rampe,1494,Sydney Swans,DEF,26,86.1
+Sam Gibson,1308,North Melbourne,MID,30,86.1
+Michael Hibberd,1150,Melbourne,DEF,27,86.02358994
+Jack Crisp,1283,Collingwood,MID,23,86
+Koby Stevens,1067,St Kilda,"MID,FWD",25,86
+Josh Jenkins,1161,Adelaide Crows,FWD,27,86
+Jack Riewoldt,536,Richmond,FWD,28,85.9
+Jobe Watson,671,Essendon,MID,31,85.73090682
+Daniel Rich,922,Brisbane Lions,"DEF,MID",26,85.7
+Liam Picken,915,Western Bulldogs,MID,30,85.5
+Brandon Ellis,1300,Richmond,MID,23,85.4
+Andrew Swallow,612,North Melbourne,MID,29,85.4
+Matthew Broadbent,848,Port Adelaide,"DEF,MID",26,85.4
+Steve Johnson,334,GWS Giants,FWD,33,85.4
+Justin Westhoff,683,Port Adelaide,FWD,30,85.2
+Steven Motlop,906,Geelong Cats,FWD,25,85.2
+Cameron Guthrie,1141,Geelong Cats,MID,24,85.1
+Matthew Wright,1091,Carlton,FWD,27,85
+Mitch Robinson,923,Brisbane Lions,MID,27,84.9
+Jake Lloyd,1467,Sydney Swans,"DEF,MID",23,84.6
+Tom Hawkins,279,Geelong Cats,FWD,28,84.5
+Robbie Tarrant,813,North Melbourne,DEF,27,84.3
+Tom Hickey,1151,St Kilda,RUC,25,84.2
+Grant Birchall,42,Hawthorn,DEF,29,84.1
+Jack Watts,959,Melbourne,FWD,25,84.1
+Nick Haynes,1319,GWS Giants,DEF,24,84
+Cale Hooker,754,Essendon,"DEF,FWD",28,83.79409091
+Ryan Bastinac,972,Brisbane Lions,MID,25,83.4
+Scott Lycett,1179,West Coast Eagles,"RUC,FWD",24,83.2
+Luke Breust,847,Hawthorn,FWD,26,82.7
+Tom Nicholls,1203,Gold Coast Suns,RUC,24,82.5
+Shannon Hurn,314,West Coast Eagles,DEF,29,82.4
+Shane Savage,928,St Kilda,DEF,26,82.3
+Daniel Menzel,1042,Geelong Cats,FWD,25,82.2
+Mason Wood,1525,North Melbourne,FWD,23,82
+Devon Smith,1386,GWS Giants,FWD,23,81.8
+Taylor Walker,820,Adelaide Crows,FWD,26,81.6
+Zach Tuohy,1079,Geelong Cats,DEF,27,81.5
+Lachie Whitfield,1520,GWS Giants,MID,22,81.2
+Isaac Smith,1231,Hawthorn,"MID,FWD",28,80.9
+Paul Puopolo,1215,Hawthorn,FWD,29,80.9
+Chad Wingard,1412,Port Adelaide,FWD,23,80.8
+Ben Cunnington,989,North Melbourne,MID,25,80.7
+Marcus Adams,1752,Western Bulldogs,DEF,23,80.6
+Jamie Macmillan,1031,North Melbourne,DEF,25,80.6
+Craig Bird,716,Essendon,MID,28,80.3
+Brad Ebert,738,Port Adelaide,MID,26,80.3
+Sam Gray,1563,Port Adelaide,MID,25,80.2
+Patrick Ryder,555,Port Adelaide,"RUC,FWD",28,80.03
+Maverick Weller,1251,St Kilda,FWD,24,79.8
+Isaac Heeney,1680,Sydney Swans,FWD,20,79.6
+Marc Murphy,463,Carlton,MID,29,79.5
+Ben Reid,526,Collingwood,DEF,27,79.5
+Caleb Daniel,1651,Western Bulldogs,"MID,FWD",20,79
+Touk Miller,1713,Gold Coast Suns,"MID,FWD",20,78.8
+Mark LeCras,372,West Coast Eagles,FWD,30,78.8
+Michael Walters,958,Fremantle,FWD,26,78.6
+Daniel Talia,1072,Adelaide Crows,DEF,25,78.5
+Shaun Higgins,288,North Melbourne,FWD,28,78.4
+Aaron Young,1254,Port Adelaide,FWD,24,78.4
+Michael Rischitelli,538,Gold Coast Suns,MID,31,78.2
+Tim Membrey,1477,St Kilda,FWD,22,78
+Hamish Hartlett,876,Port Adelaide,"DEF,MID",26,77.9
+Danyle Pearce,497,Fremantle,MID,30,77.7
+Zac Smith,1232,Geelong Cats,RUC,26,77.5
+Callum Mills,1819,Sydney Swans,DEF,19,77.2
+Ricky Henderson,879,Hawthorn,"DEF,MID",28,77.2
+Richard Douglas,165,Adelaide Crows,"MID,FWD",29,77.1
+Jesse Hogan,1571,Melbourne,FWD,21,76.8
+Sam Kerridge,1331,Carlton,MID,23,76.8
+Jamie Elliott,1299,Collingwood,FWD,24,76.40193179
+Dylan Roberton,1056,St Kilda,DEF,25,76.4
+Shane Edwards,181,Richmond,"MID,FWD",28,76.4
+Trent Dumont,1551,North Melbourne,MID,21,76.3
+Ben Brown,1543,North Melbourne,FWD,24,76.3
+Alex Fasolo,1132,Collingwood,FWD,24,76.3
+Matthew Suckling,610,Western Bulldogs,DEF,28,76
+Harry Taylor,814,Geelong Cats,DEF,30,75.9
+Tom Cutler,1550,Brisbane Lions,DEF,21,75.9
+Lachie Henderson,751,Geelong Cats,DEF,27,75.87216093
+Tom Campbell,1277,Western Bulldogs,RUC,25,75.7
+Lin Jong,1326,Western Bulldogs,"MID,FWD",23,75.7
+Lee Spurr,1388,Fremantle,DEF,29,75.7
+Tom Bell,1262,Brisbane Lions,FWD,25,75.7
+Jordan de Goey,1654,Collingwood,"MID,FWD",20,75.6
+Heath Grundy,251,Sydney Swans,DEF,30,75.6
+Heath Hocking,294,Essendon,MID,29,75.555
+Brodie Smith,1230,Adelaide Crows,DEF,25,75.4
+Blake Acres,1528,St Kilda,"MID,FWD",21,75.4
+Jake Stringer,1508,Western Bulldogs,FWD,22,75.4
+Jack Darling,1121,West Coast Eagles,FWD,24,75.4
+Matt Dea,993,Essendon,DEF,25,75.2
+Elliot Yeo,1418,West Coast Eagles,"MID,FWD",23,75.2
+Chris Masten,766,West Coast Eagles,MID,27,75.2
+Shane Biggs,1264,Western Bulldogs,DEF,25,75.1
+Jack Billings,1539,St Kilda,"MID,FWD",21,74.9
+Nick Vlastuin,1518,Richmond,DEF,22,74.9
+Dale Thomas,622,Carlton,MID,29,74.8
+Jared Polec,1213,Port Adelaide,MID,24,74.8
+Ben Howlett,1017,Essendon,"MID,FWD",28,74.6325
+Rory Lobb,1594,GWS Giants,FWD,23,74.6
+Jarrod Harbrow,266,Gold Coast Suns,DEF,28,74.5
+Rory Atkins,1422,Adelaide Crows,MID,22,74.5
+Jack Martin,1599,Gold Coast Suns,"DEF,FWD",22,74.3
+Mark Baguley,1261,Essendon,DEF,29,74.2
+Tomas Bugg,1273,Melbourne,MID,23,73.9
+Jesse White,689,Collingwood,FWD,29,73.8
+Connor Blakely,1637,Fremantle,MID,20,73.6
+Jackson Trengove,953,Port Adelaide,"DEF,RUC",26,73.6
+Charlie Cameron,1546,Adelaide Crows,FWD,22,73.2
+Easton Wood,830,Western Bulldogs,DEF,27,73.1
+Matthew Kreuzer,759,Carlton,RUC,27,73.1
+David Mackay,397,Adelaide Crows,MID,28,73
+Nick Graham,1447,Carlton,"MID,FWD",22,72.97000726
+Josh Smith,1845,Collingwood,DEF,23,72.8
+Chris Mayne,767,Collingwood,FWD,28,72.8
+Will Langford,1171,Hawthorn,MID,24,72.8
+Christian Petracca,1723,Melbourne,FWD,21,72.7
+Samuel Collins,1765,Fremantle,DEF,22,72.5
+Billy Longer,1338,St Kilda,RUC,23,72.28548942
+Jackson Thurlow,1513,Geelong Cats,DEF,22,72.24011737
+Darcy Parish,1831,Essendon,MID,19,72.2
+Peter Wright,1751,Gold Coast Suns,FWD,20,72.2
+Anthony McDonald-Tipungwuti,1815,Essendon,DEF,23,72.2
+Matt Rosa,548,Gold Coast Suns,MID,30,72.1
+Luke Dunstan,1552,St Kilda,MID,22,72
+Levi Greenwood,744,Collingwood,"MID,FWD",27,71.9
+Jake Lever,1692,Adelaide Crows,DEF,20,71.9
+Rhys Stanley,944,Geelong Cats,"RUC,FWD",26,71.8
+Shaun Hampson,263,Richmond,RUC,28,71.7
+Dean Kent,1464,Melbourne,FWD,22,71.6
+Mark Hutchings,1459,West Coast Eagles,MID,25,71.1
+Jarryd Blair,843,Collingwood,FWD,26,71
+Jeremy Cameron,1276,GWS Giants,FWD,23,71
+Jake Spencer,808,Melbourne,RUC,27,70.85277664
+Rhys Mathieson,1814,Brisbane Lions,MID,20,70.7
+Luke Brown,1270,Adelaide Crows,DEF,24,70.6
+Liam Shiels,931,Hawthorn,MID,25,70.4
+Jacob Hopper,1794,GWS Giants,"MID,FWD",19,70.4
+Ben Griffiths,1004,Richmond,FWD,25,70.4
+Clayton Oliver,1829,Melbourne,MID,19,70.3
+Toby McLean,1709,Western Bulldogs,FWD,21,70.2
+Taylor Duryea,997,Hawthorn,DEF,25,70.1
+Adam Saad,1731,Gold Coast Suns,DEF,22,70.1
+Sam Mayes,1472,Brisbane Lions,DEF,22,70
+Jamie Cripps,1116,West Coast Eagles,FWD,24,70
+Sam Lloyd,1593,Richmond,FWD,26,70
+Jordan Roughead,925,Western Bulldogs,RUC,26,69.9
+Tom Barrass,1535,West Coast Eagles,DEF,21,69.9
+Andrew Mackie,399,Geelong Cats,DEF,32,69.9
+Christian Salem,1614,Melbourne,DEF,21,69.8
+Billy Hartung,1566,Hawthorn,MID,22,69.7
+Jake Carlisle,979,St Kilda,"DEF,FWD",25,69.64330676
+Josh Dunkley,1774,Western Bulldogs,"MID,FWD",20,69.6
+Jack Hombsch,1322,Port Adelaide,DEF,23,69.6
+Orazio Fantasia,1554,Essendon,FWD,21,69.6
+Sam Naismith,1482,Sydney Swans,RUC,24,69.6
+Majak Daw,992,North Melbourne,"RUC,FWD",25,69.6
+Allen Christensen,982,Brisbane Lions,"MID,FWD",25,69.5
+Taylor Hunt,883,Richmond,DEF,26,69.5
+Jonathon Ceglar,1109,Hawthorn,RUC,25,69.3
+James Harmes,1565,Melbourne,DEF,21,69.3
+Kade Kolodjashnij,1587,Gold Coast Suns,DEF,21,69
+Brayden Maynard,1698,Collingwood,DEF,20,69
+Oscar McDonald,1700,Melbourne,DEF,20,68.9
+Josh Wagner,1853,Melbourne,DEF,22,68.9
+Dale Morris,455,Western Bulldogs,DEF,34,68.9
+Matthew Leuenberger,375,Essendon,RUC,28,68.8
+Joe Daniher,1438,Essendon,FWD,22,68.8
+Dean Towers,1515,Sydney Swans,FWD,26,68.8
+Nathan Krakouer,365,Port Adelaide,DEF,28,68.6
+Ben Kennedy,1463,Melbourne,FWD,22,68.5
+Cameron Sutcliffe,1392,Fremantle,DEF,24,68.3
+Simon White,1088,Carlton,DEF,28,68.3
+Billy Stretch,1738,Melbourne,MID,20,68.2
+Hayden Crozier,1284,Fremantle,DEF,23,68.1
+Paul Seedsman,1225,Adelaide Crows,MID,25,67.7
+Adam Oxley,1489,Collingwood,DEF,24,67.6
+Neville Jetta,885,Melbourne,DEF,26,67.6
+Jacob Weitering,1856,Carlton,DEF,19,67.6
+Cameron Pedersen,1209,Melbourne,FWD,29,67.6
+Ciaran Byrne,1544,Carlton,DEF,22,67.5
+Stewart Crameri,987,Western Bulldogs,FWD,28,67.39941177
+Sam Day,1124,Gold Coast Suns,"DEF,FWD",24,67.3
+Matt Shaw,1226,Gold Coast Suns,MID,24,67.2
+Aliir Aliir,1530,Sydney Swans,DEF,22,67
+Travis Colyer,983,Essendon,FWD,25,66.91202445
+Ben McEvoy,769,Hawthorn,RUC,27,66.8
+Nathan Wilson,1410,GWS Giants,DEF,24,66.8
+Dennis Armfield,708,Carlton,FWD,30,66.8
+Tom Boyd,1542,Western Bulldogs,"RUC,FWD",21,66.73935559
+James Frawley,209,Hawthorn,DEF,28,66.6
+Sam Gilbert,224,St Kilda,DEF,30,66.1
+Tom Ruggles,1838,Geelong Cats,DEF,24,66
+Tommy Sheridan,1382,Fremantle,DEF,23,65.931703
+Matthew Lobbe,761,Port Adelaide,RUC,27,65.8
+Michael Hartley,1788,Essendon,DEF,23,65.7
+David Astbury,968,Richmond,DEF,25,65.6
+Harris Andrews,1634,Brisbane Lions,DEF,20,65.5
+Brad Sheppard,1063,West Coast Eagles,DEF,25,65.5
+Sean Dempster,157,St Kilda,DEF,33,65.5
+Charlie Dixon,1128,Port Adelaide,FWD,26,65.5
+Phil Davis,861,GWS Giants,DEF,26,65.4
+Alex Sexton,1379,Gold Coast Suns,MID,23,65.4
+Bradley Hill,1321,Fremantle,"MID,FWD",23,65.3
+Garrick Ibbotson,317,Fremantle,DEF,28,65.2
+Travis Cloke,116,Western Bulldogs,FWD,29,65.2
+Eric MacKenzie,398,West Coast Eagles,DEF,28,65.2
+Martin Gleeson,1445,Essendon,DEF,22,65
+Jesse Lonergan,1468,Gold Coast Suns,MID,22,65
+Shaun Atley,1096,North Melbourne,DEF,24,65
+Angus Brayshaw,1639,Melbourne,"MID,FWD",21,64.9
+Clay Smith,1385,Western Bulldogs,FWD,23,64.9
+Kane Lambert,1687,Richmond,FWD,25,64.9
+Tom Bellchambers,715,Essendon,RUC,27,64.74907936
+Tom Jonas,1166,Port Adelaide,DEF,26,64.74603012
+Brendon Ah Chee,1257,Port Adelaide,"MID,FWD",23,64.7
+Ryan Davis,734,Gold Coast Suns,FWD,27,64.6
+Ben Sinclair,1066,Collingwood,DEF,25,64.6
+Jack Redden,919,West Coast Eagles,MID,26,64.1
+Jonathon Patton,1367,GWS Giants,FWD,23,64.1
+Jarryn Geary,217,St Kilda,DEF,28,64.1
+Luke McDonald,1601,North Melbourne,DEF,21,64
+Jack Steele,1737,St Kilda,"MID,FWD",21,63.8
+Darcy Byrne-Jones,1545,Port Adelaide,DEF,21,63.8
+Callum Sinclair,1504,Sydney Swans,"RUC,FWD",27,63.7
+James Sicily,1618,Hawthorn,FWD,22,63.6
+Oleg Markov,1813,Richmond,DEF,20,63.5
+Aaron Vandenberg,1739,Melbourne,FWD,24,63.5
+Daniel Howe,1683,Hawthorn,"DEF,MID",21,63.4
+Travis Varcoe,655,Collingwood,FWD,28,63.2
+Sharrod Wellingham,676,West Coast Eagles,DEF,28,63.2
+Nakia Cockatoo,1646,Geelong Cats,FWD,20,63.2
+Shane Kersten,1332,Fremantle,FWD,23,63.1
+Jayden Short,1732,Richmond,DEF,21,63.1
+Lindsay Thomas,624,North Melbourne,FWD,28,63.1
+Jackson Merrett,1348,Essendon,"MID,FWD",23,63
+Gary Rohan,1058,Sydney Swans,FWD,25,63
+Tory Dickson,1292,Western Bulldogs,FWD,29,62.9
+Kyle Cheney,723,Adelaide Crows,DEF,27,62.8
+James Aish,1529,Collingwood,MID,21,62.6
+Kyle Langford,1689,Essendon,"MID,FWD",20,62.6
+Rohan Bewick,1100,Brisbane Lions,MID,27,62.6
+Josh Hill,289,West Coast Eagles,FWD,28,62.6
+Angus Monfries,447,Port Adelaide,FWD,30,62.595
+Jimmy Toumpas,1514,Port Adelaide,MID,23,62.4
+Jake Melksham,1041,Melbourne,MID,25,62.37769772
+Jarman Impey,1576,Port Adelaide,FWD,21,62.3
+Rhys Palmer,788,Carlton,FWD,27,62.2
+Tom Papley,1830,Sydney Swans,FWD,20,62.2
+Matt Taberner,1510,Fremantle,FWD,23,61.8
+Corey Ellis,1661,Richmond,DEF,20,61.7
+Jonathon Griffin,245,Fremantle,RUC,31,61.6
+Lachlan Weller,1747,Fremantle,FWD,20,61.4
+Nick Smith,594,Sydney Swans,DEF,28,61.3
+Jade Gresham,1786,St Kilda,FWD,19,61.3
+Sam Wright,962,North Melbourne,DEF,26,61.2
+Aaron Mullett,1200,North Melbourne,DEF,24,61.1
+Josh Green,1140,Essendon,FWD,24,61.1
+Nathan Vardy,1081,West Coast Eagles,RUC,25,61
+Sam Butler,87,West Coast Eagles,DEF,31,61
+Brandon Matera,1187,Gold Coast Suns,FWD,24,61
+Dylan Grimes,1005,Richmond,DEF,25,60.9
+Nick Suban,949,Fremantle,MID,26,60.82737089
+Jack Redpath,1370,Western Bulldogs,FWD,26,60.5
+Ben Stratton,1068,Hawthorn,DEF,27,60.4
+Daniel McStay,1602,Brisbane Lions,DEF,21,60.2
+Karl Amon,1532,Port Adelaide,"MID,FWD",21,60.2
+Alex Pearce,1607,Fremantle,DEF,21,60.1
+Callum Ah Chee,1753,Gold Coast Suns,FWD,19,59.7
+Jayden Hunt,1575,Melbourne,DEF,21,59.6
+Hayden Ballantyne,836,Fremantle,FWD,29,59.6
+Mason Cox,1648,Collingwood,FWD,25,59.2
+Harry Cunningham,1285,Sydney Swans,"DEF,FWD",23,59.1
+Ryan Harwood,1011,Brisbane Lions,DEF,25,59.1
+Lewis Taylor,1622,Brisbane Lions,FWD,21,58.8
+Kyle Hartigan,1452,Adelaide Crows,DEF,25,58.8
+Liam Jones,888,Carlton,FWD,25,58.8
+Kaiden Brand,1426,Hawthorn,DEF,22,58.6
+Jimmy Webster,1406,St Kilda,DEF,23,58.5
+Lewis Jetta,1021,West Coast Eagles,"MID,FWD",27,58.5
+Curtly Hampton,1317,Adelaide Crows,DEF,23,58.43942163
+Adam Tomlinson,1395,GWS Giants,DEF,23,58.2
+Jordan Murdoch,1357,Geelong Cats,FWD,24,58.1
+Jayden Laverde,1691,Essendon,FWD,20,58.1
+Jeremy Laidler,760,Sydney Swans,DEF,27,58.1
+Darcy Lang,1588,Geelong Cats,FWD,21,58
+Matt Scharenberg,1615,Collingwood,DEF,21,57.93613814
+Mitchell McGovern,1701,Adelaide Crows,FWD,22,57.87063019
+Jeff Garlett,869,Melbourne,FWD,27,57.6
+Darcy Moore,1715,Collingwood,FWD,21,57.5
+Nathan Brown,75,St Kilda,DEF,28,57.5
+Ryan Lester,1174,Brisbane Lions,FWD,24,57.4
+Darcy Tucker,1850,Fremantle,MID,20,57.2
+Connor Menadue,1711,Richmond,MID,20,57.1
+Jack Frost,1443,Brisbane Lions,DEF,24,57.1
+Ty Vickery,957,Hawthorn,FWD,26,57.1
+Billie Smedts,1229,Carlton,"MID,FWD",24,57
+Patrick Ambrose,1531,Essendon,DEF,25,56.8
+Marley Williams,1409,North Melbourne,DEF,23,56.8
+George Hewett,1570,Sydney Swans,FWD,21,56.6
+Zak Jones,1579,Sydney Swans,DEF,21,56.4
+Andrew Phillips,1369,Carlton,RUC,25,56.4
+Lachie Plowman,1492,Carlton,DEF,22,56.37487098
+Jed Lamb,1170,Carlton,FWD,24,56.3
+Michael Talia,1394,Sydney Swans,DEF,23,56
+Jake Kelly,1581,Adelaide Crows,DEF,22,55.94944038
+Rory Thompson,1240,Gold Coast Suns,DEF,25,55.9
+Josh Bruce,1271,St Kilda,FWD,24,55.8
+Liam Duggan,1659,West Coast Eagles,MID,20,55.4
+Darren Minchington,1352,St Kilda,FWD,23,55.2
+Tom Lonergan,384,Geelong Cats,DEF,32,55
+Jack Sinclair,1733,St Kilda,FWD,21,54.9
+Cory Gregson,1675,Geelong Cats,FWD,20,54.9
+Sam Reid,1053,Sydney Swans,FWD,25,54.7
+Jake Neade,1483,Port Adelaide,FWD,22,54.7
+Ed Langdon,1688,Fremantle,"MID,FWD",21,54.3
+Jarrad Grant,743,Gold Coast Suns,FWD,27,53.8
+Steven Morris,1356,Richmond,DEF,28,53.8
+Daniel McKenzie,1706,St Kilda,DEF,20,53.6
+Jake Kolodjashnij,1586,Geelong Cats,DEF,21,53.1
+Tom Clurey,1432,Port Adelaide,DEF,22,53.1
+Cam McCarthy,1600,Fremantle,FWD,21,53.05963555
+Zac Clarke,855,Fremantle,RUC,26,52.5
+Dylan Buckley,1272,Carlton,FWD,23,52.4
+Joel Hamling,1316,Fremantle,DEF,23,52
+Ben Keays,1801,Brisbane Lions,FWD,19,51.9
+Darcy Gardiner,1559,Brisbane Lions,DEF,21,51.8
+Matt Buntine,1274,GWS Giants,DEF,23,51.8
+Sam Rowe,1373,Carlton,DEF,29,51.7
+Wayne Milera,1818,Adelaide Crows,FWD,19,51.6
+Sam Frost,1306,Melbourne,DEF,23,51.4
+Josh Walker,1246,Brisbane Lions,FWD,24,51.2
+Adam Kennedy,1330,GWS Giants,DEF,24,50.3
+Tom Downie,1295,GWS Giants,"RUC,FWD",23,50
+Brandon Jack,1460,Sydney Swans,"MID,FWD",22,48.41614223
+Levi Casboult,981,Carlton,FWD,26,48.1
+Logan Austin,1635,Port Adelaide,DEF,21,47.8
+Troy Menzel,1478,Adelaide Crows,FWD,22,47.03408854
+Dawson Simpson,804,GWS Giants,RUC,27,46.34616468
+George Horlin-Smith,1154,Geelong Cats,MID,24,43
+Aaron Black,974,Geelong Cats,FWD,26,42.58928177
+Sam Shaw,1062,Adelaide Crows,DEF,25,42.24276616
+Jay Kennedy-Harris,1583,Melbourne,FWD,21,39.03077718
+Kristian Jaksch,1461,Carlton,"DEF,FWD",22,38
+Riley Knight,1585,Adelaide Crows,FWD,21,37
+Matt White,688,Port Adelaide,"MID,FWD",29,14
+Hugh Goddard,1671,St Kilda,DEF,20,13
+James Stewart,1507,Essendon,FWD,22,8

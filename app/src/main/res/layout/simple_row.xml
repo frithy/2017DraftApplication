@@ -1,0 +1,12 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvName"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Name "
+    android:paddingTop="5dp"
+    android:paddingStart="5dp"
+
+    android:textSize="25dp"
+    android:textColor="#FFFFFF"
+    android:background="@drawable/roundedlayout"
+    />

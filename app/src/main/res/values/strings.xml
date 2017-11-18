@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UFD-2017</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Player</string>
+    <string name="title_section3">Search</string>
+    <string name="title_section4">Team</string>
+    <string name="title_section5">Change Draft Pick</string>
+    <string name="prompt_spinner">Select year</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Get a Star</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
